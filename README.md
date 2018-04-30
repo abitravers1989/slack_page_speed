@@ -12,3 +12,7 @@ Fill out the desired values for all the properties. You MUST fill in the followi
 # Running
 Install the gem with `gem install slack_page_speed`
 run `slack_page_speed` (Can only be done after Setup!)
+
+
+# Ruby Gem
+Gem can be found here: https://rubygems.org/gems/slack_page_speed
